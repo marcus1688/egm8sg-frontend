@@ -271,7 +271,7 @@ const togglePasswordVisibility = () => {
 };
 
 useHead({
-  title: "EGM8 | Login Access Your Gaming Account - Malaysia Online Casino",
+  title: "EGM8 | Login Access Your Gaming Account - Singapore Online Casino",
   meta: [
     {
       property: "og:title",
@@ -280,12 +280,12 @@ useHead({
     {
       name: "description",
       content:
-        "Login to your EGM8 account to access premium slot games, live casino, sports betting, exclusive promotions, and secure gaming experience in Malaysia's top online casino platform.",
+        "Login to your EGM8 account to access premium slot games, live casino, sports betting, exclusive promotions, and secure gaming experience in Singapore's top online casino platform.",
     },
     {
       name: "keywords",
       content:
-        "EGM8 login, member access, online casino login, gaming account Malaysia, secure login, casino member portal, EGM8 account, Malaysia gaming login, online betting access",
+        "EGM8 login, member access, online casino login, gaming account Singapore, secure login, casino member portal, EGM8 account, Singapore gaming login, online betting access",
     },
   ],
   htmlAttrs: {

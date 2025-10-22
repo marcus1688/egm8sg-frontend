@@ -163,7 +163,7 @@
                                   level.benefits[row.name],
                                   row.name
                                 ) + "%"
-                              : "MYR " +
+                              : "SGD " +
                                 formatNumber(
                                   level.benefits
                                     ? level.benefits[row.name]
@@ -438,7 +438,8 @@ const getSectionTitle = (rowName) => {
 };
 
 useHead({
-  title: "EGM8 | VIP Membership Program & Exclusive Benefits - Malaysia Casino",
+  title:
+    "EGM8 | VIP Membership Program & Exclusive Benefits - Singapore Casino",
   meta: [
     {
       property: "og:title",
@@ -447,12 +448,12 @@ useHead({
     {
       name: "description",
       content:
-        "Experience EGM8's exclusive VIP membership program with premium benefits including higher withdrawal limits, special rebates, monthly bonuses, birthday rewards, and personalized customer service in Malaysia's top gaming platform.",
+        "Experience EGM8's exclusive VIP membership program with premium benefits including higher withdrawal limits, special rebates, monthly bonuses, birthday rewards, and personalized customer service in Singapore's top gaming platform.",
     },
     {
       name: "keywords",
       content:
-        "EGM8 VIP, VIP membership Malaysia, casino VIP program, exclusive gaming benefits, premium rewards, VIP rebates, monthly VIP bonus, high roller benefits, elite gaming Malaysia, EGM8 premium membership",
+        "EGM8 VIP, VIP membership Singapore, casino VIP program, exclusive gaming benefits, premium rewards, VIP rebates, monthly VIP bonus, high roller benefits, elite gaming Singapore, EGM8 premium membership",
     },
   ],
   htmlAttrs: {

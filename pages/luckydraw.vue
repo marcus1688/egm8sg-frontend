@@ -391,7 +391,7 @@ useHead({
     {
       name: "keywords",
       content:
-        "EGM8 lucky draw, 9 grid lottery, casino games, win prizes, cash rewards, online gaming Malaysia",
+        "EGM8 lucky draw, 9 grid lottery, casino games, win prizes, cash rewards, online gaming Singapore",
     },
   ],
   htmlAttrs: {

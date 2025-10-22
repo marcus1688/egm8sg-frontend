@@ -545,7 +545,7 @@ const openLiveChat = () => {
 };
 
 useHead({
-  title: "EGM8 | Customer Support & Help Center - 24/7 Assistance Malaysia",
+  title: "EGM8 | Customer Support & Help Center - 24/7 Assistance Singapore",
   meta: [
     {
       property: "og:title",
@@ -559,7 +559,7 @@ useHead({
     {
       name: "keywords",
       content:
-        "EGM8 customer support, 24/7 help center, live chat support, WhatsApp support, technical assistance, payment help Malaysia, multilingual support, customer service, account support, gaming help",
+        "EGM8 customer support, 24/7 help center, live chat support, WhatsApp support, technical assistance, payment help Singapore, multilingual support, customer service, account support, gaming help",
     },
   ],
   htmlAttrs: {

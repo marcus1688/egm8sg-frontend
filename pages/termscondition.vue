@@ -704,7 +704,7 @@ const acceptTerms = () => {
 };
 
 useHead({
-  title: "EGM8 | Terms & Conditions - Legal Agreement Malaysia Online Casino",
+  title: "EGM8 | Terms & Conditions - Legal Agreement Singapore Online Casino",
   meta: [
     {
       property: "og:title",
@@ -713,12 +713,12 @@ useHead({
     {
       name: "description",
       content:
-        "Read EGM8's comprehensive terms and conditions covering user agreements, account policies, intellectual property rights, deposits & withdrawals, responsible gaming, and legal provisions for Malaysia's premier gaming platform.",
+        "Read EGM8's comprehensive terms and conditions covering user agreements, account policies, intellectual property rights, deposits & withdrawals, responsible gaming, and legal provisions for Singapore's premier gaming platform.",
     },
     {
       name: "keywords",
       content:
-        "EGM8 terms conditions, user agreement, casino terms, gaming policies Malaysia, legal terms, account policies, intellectual property, deposit withdrawal terms, responsible gaming policy, casino legal agreement",
+        "EGM8 terms conditions, user agreement, casino terms, gaming policies Singapore, legal terms, account policies, intellectual property, deposit withdrawal terms, responsible gaming policy, casino legal agreement",
     },
   ],
   htmlAttrs: {

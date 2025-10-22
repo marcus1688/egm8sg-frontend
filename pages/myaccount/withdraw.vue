@@ -133,7 +133,7 @@
                     class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none"
                   >
                     <span class="text-[#b37a7a] text-lg max-lg:text-base"
-                      >MYR</span
+                      >SGD</span
                     >
                   </div>
                   <input

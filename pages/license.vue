@@ -357,7 +357,7 @@
 <script setup>
 useHead({
   title:
-    "EGM8 | Official PAGCOR Gaming License - Legal & Regulated Malaysia Casino",
+    "EGM8 | Official PAGCOR Gaming License - Legal & Regulated Singapore Casino",
   meta: [
     {
       property: "og:title",
@@ -371,7 +371,7 @@ useHead({
     {
       name: "keywords",
       content:
-        "EGM8 PAGCOR license, gaming license Malaysia, PAGCOR regulated casino, legal online casino, licensed gaming platform, EGM8 Asia Group Limited, gaming authority, regulated gambling Malaysia, licensed casino operator",
+        "EGM8 PAGCOR license, gaming license Singapore, PAGCOR regulated casino, legal online casino, licensed gaming platform, EGM8 Asia Group Limited, gaming authority, regulated gambling Singapore, licensed casino operator",
     },
   ],
   htmlAttrs: {

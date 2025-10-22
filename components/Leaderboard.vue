@@ -133,7 +133,7 @@
                   </div>
                   <div class="text-right flex-shrink-0">
                     <div class="font-bold text-[#ff3344]">
-                      MYR {{ formatNumber(user.totalValidTurnover) }}
+                      SGD {{ formatNumber(user.totalValidTurnover) }}
                     </div>
                     <div class="text-xs text-[#b37a7a]">
                       {{ $t("valid_turnover") }}
@@ -188,7 +188,7 @@ const mockData = {
     totalUsers: 20,
   },
   data: [
-    { username: "Malaysia888", totalValidTurnover: 58750.25 },
+    { username: "Singapore888", totalValidTurnover: 58750.25 },
     { username: "GoldenDragon", totalValidTurnover: 42680.5 },
     { username: "LuckyTiger", totalValidTurnover: 35920.75 },
     { username: "WinnerKL", totalValidTurnover: 29475.0 },

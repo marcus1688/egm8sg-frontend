@@ -65,7 +65,7 @@
                   class="p-2 border-r border-b border-[#3b1c23] text-right max-lg:w-[20%]"
                 >
                   <span class="font-bold text-[#4ade80] max-lg:text-xs"
-                    >+ MYR {{ transaction.depositAmount.toFixed(2) }}</span
+                    >+ SGD {{ transaction.depositAmount.toFixed(2) }}</span
                   >
                 </td>
                 <td
@@ -91,7 +91,7 @@
                   class="p-2 border-b border-[#3b1c23] text-right max-lg:w-[20%]"
                 >
                   <span class="font-bold text-[#ff3344] max-lg:text-xs"
-                    >- MYR {{ transaction.withdrawAmount.toFixed(2) }}</span
+                    >- SGD {{ transaction.withdrawAmount.toFixed(2) }}</span
                   >
                 </td>
               </tr>

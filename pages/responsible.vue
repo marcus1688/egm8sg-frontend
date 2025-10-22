@@ -1710,7 +1710,8 @@ const handleAnchorClick = (e, targetId) => {
 };
 
 useHead({
-  title: "EGM8 | Responsible Gaming & Player Protection - Safe Gaming Malaysia",
+  title:
+    "EGM8 | Responsible Gaming & Player Protection - Safe Gaming Singapore",
   meta: [
     {
       property: "og:title",
@@ -1719,12 +1720,12 @@ useHead({
     {
       name: "description",
       content:
-        "EGM8 promotes responsible gaming with self-assessment tools, deposit limits, time controls, self-exclusion options, and comprehensive player protection measures. Play safely and responsibly on Malaysia's trusted gaming platform.",
+        "EGM8 promotes responsible gaming with self-assessment tools, deposit limits, time controls, self-exclusion options, and comprehensive player protection measures. Play safely and responsibly on Singapore's trusted gaming platform.",
     },
     {
       name: "keywords",
       content:
-        "EGM8 responsible gaming, safe gaming Malaysia, player protection, self-assessment, deposit limits, gambling addiction help, gaming controls, responsible gambling, player safety, gaming support",
+        "EGM8 responsible gaming, safe gaming Singapore, player protection, self-assessment, deposit limits, gambling addiction help, gaming controls, responsible gambling, player safety, gaming support",
     },
   ],
   htmlAttrs: {

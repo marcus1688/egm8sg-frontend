@@ -33,12 +33,12 @@
 const promoCards = [
   {
     title: "150% Welcome Bonus",
-    description: "Up to MYR 1,800 for new players",
+    description: "Up to SGD 1,800 for new players",
     icon: "bi bi-gift",
     bg: "bg-blue-500",
   },
   {
-    title: "MYR 6,888 Weekly Bonus",
+    title: "SGD 6,888 Weekly Bonus",
     description: "Cashback on your weekly losses",
     icon: "bi bi-cash-stack",
     bg: "bg-green-500",

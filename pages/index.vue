@@ -183,21 +183,21 @@ const checkShouldShowPopup = (currentPopupId, lastPopupId, lastPopupTime) => {
 };
 
 useHead({
-  title: "EGM8 | Premier Online Gaming & Casino Experience in Malaysia",
+  title: "EGM8 | Premier Online Gaming & Casino Experience in Singapore",
   meta: [
     {
       property: "og:title",
-      content: "EGM8 | Malaysia's Leading Online Gaming Platform",
+      content: "EGM8 | Singapore's Leading Online Gaming Platform",
     },
     {
       name: "description",
       content:
-        "EGM8 delivers the ultimate online gaming experience in Malaysia with premium slot machines, live dealer games, comprehensive sportsbook, instant withdrawals, and exclusive member benefits.",
+        "EGM8 delivers the ultimate online gaming experience in Singapore with premium slot machines, live dealer games, comprehensive sportsbook, instant withdrawals, and exclusive member benefits.",
     },
     {
       name: "keywords",
       content:
-        "EGM8, Malaysia online gaming, premium slots, live dealers, sports betting, instant withdrawal, member rewards, gaming platform Malaysia, online casino games, trusted gaming site",
+        "EGM8, Singapore online gaming, premium slots, live dealers, sports betting, instant withdrawal, member rewards, gaming platform Singapore, online casino games, trusted gaming site",
     },
   ],
   htmlAttrs: {

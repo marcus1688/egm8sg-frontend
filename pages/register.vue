@@ -794,21 +794,21 @@ const headConfig = computed(() => {
 useHead(headConfig);
 
 useHead({
-  title: "EGM8 | Register Free Account & Get Welcome Bonus - Malaysia Casino",
+  title: "EGM8 | Register Free Account & Get Welcome Bonus - Singapore Casino",
   meta: [
     {
       property: "og:title",
-      content: "EGM8 | Join Malaysia's Premier Gaming Platform Today",
+      content: "EGM8 | Join Singapore's Premier Gaming Platform Today",
     },
     {
       name: "description",
       content:
-        "Register your free EGM8 account now and unlock exclusive welcome bonuses, premium slot games, live casino, sports betting, and instant withdrawals. Join Malaysia's most trusted online gaming platform today.",
+        "Register your free EGM8 account now and unlock exclusive welcome bonuses, premium slot games, live casino, sports betting, and instant withdrawals. Join Singapore's most trusted online gaming platform today.",
     },
     {
       name: "keywords",
       content:
-        "EGM8 register, free casino account, welcome bonus Malaysia, sign up EGM8, new member bonus, casino registration, Malaysia gaming signup, online casino join, free account bonus, EGM8 membership",
+        "EGM8 register, free casino account, welcome bonus Singapore, sign up EGM8, new member bonus, casino registration, Singapore gaming signup, online casino join, free account bonus, EGM8 membership",
     },
   ],
   htmlAttrs: {

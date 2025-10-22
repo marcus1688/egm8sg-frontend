@@ -260,7 +260,7 @@ const promotions = [
   {
     title: '288% "Have You BK8?" Welcome Bonus',
     description:
-      "Power up your play with 288% Welcome Bonus and receive up to MYR2,880!",
+      "Power up your play with 288% Welcome Bonus and receive up to SGD2,880!",
     image: "https://placehold.co/800x400/1a1d22/454b54?text=Welcome+Bonus",
     category: "Member",
     validUntil: "31 March 2025",
@@ -268,7 +268,7 @@ const promotions = [
   {
     title: "150% First Deposit Bonus",
     description:
-      "Get extra value on your first deposit with our 150% Welcome Bonus up to MYR1,500.",
+      "Get extra value on your first deposit with our 150% Welcome Bonus up to SGD1,500.",
     image: "https://placehold.co/800x400/1a1d22/454b54?text=First+Deposit",
     category: "Member",
     validUntil: "31 March 2025",
@@ -308,7 +308,7 @@ const promotions = [
   {
     title: "Fishing Tournament",
     description:
-      "Join our weekly fishing tournament and compete for a prize pool of MYR10,000!",
+      "Join our weekly fishing tournament and compete for a prize pool of SGD10,000!",
     image: "https://placehold.co/800x400/1a1d22/454b54?text=Fishing+Tournament",
     category: "Fishing",
     validUntil: "31 March 2025",
@@ -324,7 +324,7 @@ const promotions = [
   {
     title: "Lucky Draw Special",
     description:
-      "Deposit MYR100 or more and get entered into our monthly lucky draw for prizes!",
+      "Deposit SGD100 or more and get entered into our monthly lucky draw for prizes!",
     image: "https://placehold.co/800x400/1a1d22/454b54?text=Lucky+Draw",
     category: "Special",
     validUntil: "31 March 2025",
@@ -446,7 +446,7 @@ const filteredContent = computed(() => {
 });
 
 useHead({
-  title: "EGM8 | Latest Promotions & Bonuses - Malaysia Online Casino Offers",
+  title: "EGM8 | Latest Promotions & Bonuses - Singapore Online Casino Offers",
   meta: [
     {
       property: "og:title",
@@ -455,12 +455,12 @@ useHead({
     {
       name: "description",
       content:
-        "Discover EGM8's latest promotions and bonuses including welcome bonuses, free spins, cashback offers, sports betting promotions, VIP rewards, and daily specials. Join Malaysia's premier gaming platform for exclusive deals.",
+        "Discover EGM8's latest promotions and bonuses including welcome bonuses, free spins, cashback offers, sports betting promotions, VIP rewards, and daily specials. Join Singapore's premier gaming platform for exclusive deals.",
     },
     {
       name: "keywords",
       content:
-        "EGM8 promotions, casino bonuses Malaysia, welcome bonus, free spins, cashback offers, sports betting bonus, slot promotions, live casino bonus, VIP rewards, daily bonuses, Malaysia casino deals",
+        "EGM8 promotions, casino bonuses Singapore, welcome bonus, free spins, cashback offers, sports betting bonus, slot promotions, live casino bonus, VIP rewards, daily bonuses, Singapore casino deals",
     },
   ],
   htmlAttrs: {

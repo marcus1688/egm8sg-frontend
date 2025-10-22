@@ -243,7 +243,7 @@ const fetchHelps = async () => {
 };
 
 useHead({
-  title: "EGM8 | Frequently Asked Questions & Help Center - Malaysia Casino",
+  title: "EGM8 | Frequently Asked Questions & Help Center - Singapore Casino",
   meta: [
     {
       property: "og:title",
@@ -252,12 +252,12 @@ useHead({
     {
       name: "description",
       content:
-        "Find answers to frequently asked questions about EGM8's gaming platform, account management, deposits, withdrawals, bonuses, and more. Get instant help and support for Malaysia's premier online casino.",
+        "Find answers to frequently asked questions about EGM8's gaming platform, account management, deposits, withdrawals, bonuses, and more. Get instant help and support for Singapore's premier online casino.",
     },
     {
       name: "keywords",
       content:
-        "EGM8 FAQ, help center, frequently asked questions, casino support, account help, deposit questions, withdrawal help, bonus questions, gaming support Malaysia, EGM8 customer service",
+        "EGM8 FAQ, help center, frequently asked questions, casino support, account help, deposit questions, withdrawal help, bonus questions, gaming support Singapore, EGM8 customer service",
     },
   ],
   htmlAttrs: {

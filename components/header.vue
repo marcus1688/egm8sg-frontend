@@ -428,7 +428,7 @@
                       }}</span>
                       <div class="flex gap-2">
                         <span class="text-red-400"
-                          >MYR {{ userData.wallet.toFixed(2) }}</span
+                          >SGD {{ userData.wallet.toFixed(2) }}</span
                         >
                         <i
                           class="bi bi-caret-down-fill text-xs ml-0.5 text-red-300"
@@ -1062,7 +1062,7 @@
                         class="flex items-center gap-1 cursor-pointer"
                       >
                         <span
-                          >MYR
+                          >SGD
                           {{ userData?.wallet?.toFixed(2) || "0.00" }}</span
                         >
                         <i
